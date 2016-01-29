@@ -74,21 +74,22 @@ Pour inscrire vos premiers abonnés cliquez sur « Admin » puis sur « Gére
 ## Quelques conseils lors de la création d'une liste :
 
 Lorsque vous créez une liste de discussion, peu importe l'outil utilisé, n'oubliez pas :
--D'insérer un lien de désabonnement en fin de message
--De configurer un message d'accueil qui comprenne la nature des échanges concernés par la liste ainsi que quelques règles d'usage de base (voir exemple de message d'accueil ci-dessous)
--De choisir une configuration adaptée à vos usages : par exemple, s'il s'agit d'un groupe large dont vous n'êtes pas certain de la capacité à respecter les règles d'usage de base et à absorber un grand nombre de mail, vous pouvez choisir de modérer les messages avant leur diffusion.
--Laisser visibles les adresses mail des expéditeurs: rendez accessible la liste des abonnés afin que chacun ait la possibilité de savoir à qui il s'adresse.
+- D'insérer un lien de désabonnement en fin de message
+- De configurer un message d'accueil qui comprenne la nature des échanges concernés par la liste ainsi que quelques règles d'usage de base (voir exemple de message d'accueil ci-dessous)
+- De choisir une configuration adaptée à vos usages : par exemple, s'il s'agit d'un groupe large dont vous n'êtes pas certain de la capacité à respecter les règles d'usage de base et à absorber un grand nombre de mail, vous pouvez choisir de modérer les messages avant leur diffusion.
+- Laisser visibles les adresses mail des expéditeurs: rendez accessible la liste des abonnés afin que chacun ait la possibilité de savoir à qui il s'adresse.
 
 **Voici ci-dessous un exemple de message d'accueil :**
+
 _Bienvenue sur la liste de discussion réservée aux membres de l'assoXXX. Cette liste permet à chacun de s'adresser à l'ensemble des adhérents en envoyant simplement un mail à XXX@listes.comptoir.net .
 Sur cette liste vous pouvez envoyer des informations qui concernent l'ensemble des membres (événements, questions, . . .)
 
 Avant d'envoyer un mail, vérifiez qu'il concerne bien l'assoXXX. S'il intéresse l'ensemble des adhérents, envoyez le plutôt à la liste de discussion dédiée :  XXX@listes.comptoir.net .
-Soyez explicite dans l'objet de vos mails (éviter les objets du type "un truc" ou "nouvel événement", c'est une horreur pour s'y retrouver ensuite). 
-Si le sujet de discussion change : ne vous contentez pas de modifier l'objet, mais faites un nouveau mail (question de lisibilité) ! 
-Si un sujet prête à débat, prenez-les devants et créez un pad ! Pour cela, rendez-vous sur http://pad.comptoir.net/ et intégrez le lien du pad à votre mail. 
-Si un sujet prête pas à débats mais que finalement, un débat émerge quand même, créez un pad ! 
-Évitez les destinataires multiples : lorsque vous envoyez un mail sur une liste de discussion, ne mettez personne en copie, préférez des envois séparés._
+- Soyez explicite dans l'objet de vos mails (éviter les objets du type "un truc" ou "nouvel événement", c'est une horreur pour s'y retrouver ensuite). 
+- Si le sujet de discussion change : ne vous contentez pas de modifier l'objet, mais faites un nouveau mail (question de lisibilité) ! 
+- Si un sujet prête à débat, prenez-les devants et créez un pad ! Pour cela, rendez-vous sur http://pad.comptoir.net/ et intégrez le lien du pad à votre mail. 
+- Si un sujet prête pas à débats mais que finalement, un débat émerge quand même, créez un pad ! 
+- Évitez les destinataires multiples : lorsque vous envoyez un mail sur une liste de discussion, ne mettez personne en copie, préférez des envois séparés._
 
 ## Sources
 Cette fiche méthodologique d’appui grandement (voir exclusivement) sur une présentation de Marika Bernier :
