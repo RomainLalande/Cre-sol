@@ -1,4 +1,6 @@
 ## Les listes de discussion
+CC By SA Romain Lalande - Sur la base d'une présentation de Marika Bernier
+
 Les listes de discussion consistent en une adresse mail derrière laquelle des utilisateurs peuvent s'inscrire : lorsqu'un mail est envoyé à cette adresse (par exemple nom-de-la-liste@domaine-de-la-liste.fr), l'ensemble des personnes abonnées le reçoivent.
 
 Attention à ne pas les confondre avec des listes de diffusion : dans une liste de diffusion, il s'agit d'une communication à sens unique (le responsable envoi un mail à un ensemble d'abonné). Les listes de diffusion sont par exemple utilisées pour des lettres d'informations, alors que les listes de discussions sont plus adaptées à des groupes de travail au sein desquels chacun la contribution de chacun est attendue.
@@ -37,42 +39,45 @@ Au delà des paramétrages généraux des listes de discussion, chaque utilisate
 
 **Vide de sens = Rempli de désagréments.** N'envoyer pas de mail à la liste qui n'ai pas de vrai contenus (« merci didier ») : vous seriez assimilé à un Troll, et en plus tout le monde s'en fiche ! Si vous vous sentez un besoin irrépressible de faire une blague ou de remercier, contentez vous de répondre uniquement à votre destinataire. 
 
+## Comment créer un liste ?
+Les listes de discussions sont créées grâce à des logiciels spécifiques (comme [mailman](https://www.gnu.org/software/mailman/) ou [sympa](https://www.sympa.org/)) installés sur des serveurs. Si vous n'êtes pas technicien, une seule solution : passer par des tiers qui les hébergeront à votre place, de manière gratuite ou non.
 
+Mieux vaut avoir confiance dans le tiers par qui vous passerez pour créer une liste, aussi mieux vaut privilégier les services basés sur des logiciels libres et gérés par des personnes ou des collectifs en qui vous avez confiance. Vous pouvez donc passer par exemple par googlegroup ou yahoogroup, mais comme leur usage pose de sérieuses questions éthiques, nous prendrons ici l'exemple des listes proposées sur [comptoir.net](https://listes.comptoir.net/wws/) et basées sur le logiciel Sympa. 
 
-
-Comment créer un liste ?
-Les listes de discussions sont créées grâce à des logiciels spécifiques (comme mailman ou sympa) installés sur des serveurs. Si vous n'êtes pas technicien, une seule solution : passer par des tiers qui les hébergeront à votre place, de manière gratuite ou non.
-Mieux vaut avoir confiance dans le tiers par qui vous passerez pour créer une liste, aussi mieux vaut privilégier les services basés sur des logiciels libres et gérés par des personnes ou des collectifs en qui vous avez confiance. Vous pouvez donc passer par exemple par googlegroup ou yahoogroup, mais comme leur usage pose de sérieuses questions éthiques, nous prendrons ici l'exemple des listes proposées sur comptoir.net et basées sur le logiciel Sympa. 
-[Etape 1] Créer un compte
+**[Etape 1] Créer un compte**
 Il vous suffit de créer un compte dans le bandeau suppérieur de l'écran, une fois cette opération effectuée, connectez vous.
-[Étape 2] Créer une liste
+
+**[Étape 2] Créer une liste**
+
 Cliquez sur « création de liste et renseignez les différents champs : 
-Nom : c'est ce nom qui définira l'adresse mail de la liste de discussion sous la forme nomchoisis@listes.comptoir.net .
-Type de liste : choisissez celle qui correspond à votre usage, les différentes configurations standards proposées permettent de choisire qui peut poster, qui peut accéder aux archives ou à la liste des abonnés et la modération ou non des abonnement. Si vous ne savez pas quoi choisire, vous pouvez sélectionner « groupe de travail » : seuls les abonnés peuvent envoyer des messages, les archives des messages ainsi que les inscrits ne sont accessibles qu'aux abonnés et les abonnements nécessitent d'être validés par un modérateur.
-Objet : c'est le texte qui apparaîtra en début d'objet de tous les messages de la liste sous la forme [Objet choisis].
-Description : C'est la description de votre liste, cette description fera également office de message d'accueil pour chaque abonné. Il est important d'y expliciter le sujet de la liste de discussion ainsi que ses règles d'usage de base.
-Envoyer votre demande de création : cliquez sur ce bouton pour finaliser la création de votre liste. Il ne vous reste plus qu'à attendre qu'elle soit validée pour passer aux étapes suivantes.
-[Étape 3] Affiner les paramètres de la liste
+-**Nom :** c'est ce nom qui définira l'adresse mail de la liste de discussion sous la forme nomchoisis@listes.comptoir.net .
+-**Type de liste :** choisissez celle qui correspond à votre usage, les différentes configurations standards proposées permettent de choisir qui peut poster, qui peut accéder aux archives ou à la liste des abonnés et la modération ou non des abonnement. Si vous ne savez pas quoi choisir, vous pouvez sélectionner « groupe de travail » : seuls les abonnés peuvent envoyer des messages, les archives des messages ainsi que les inscrits ne sont accessibles qu'aux abonnés et les abonnements nécessitent d'être validés par un modérateur.
+-**Objet :** c'est le texte qui apparaîtra en début d'objet de tous les messages de la liste sous la forme [Objet choisis].
+-**Description :** C'est la description de votre liste, cette description fera également office de message d'accueil pour chaque abonné. Il est important d'y expliciter le sujet de la liste de discussion ainsi que ses règles d'usage de base.
+-**Envoyer votre demande de création :** cliquez sur ce bouton pour finaliser la création de votre liste. Il ne vous reste plus qu'à attendre qu'elle soit validée pour passer aux étapes suivantes.
+
+**[Étape 3] Affiner les paramètres de la liste**
 Vous pouvez naviguer dans l'interface d'administration pour modifier certains paramètres par défaut qui ne vous correspondraient pas. Pour l'essentiel, pensez à ajouter un message de pied de page qui s'affichera en bas de chacun des mail échangés et permettra aux abonnés de se désinscrire simplement : 
-Cliquez sur « Admin »
-Cliquez sur « Personnaliser »
-Cliquez sur « Editer Attachement de fin de message »
-Ajouter un texte de désabonnement ainsi que le lien pour se désabonner sous la forme : https://listes.comptoir.net/wws/signoff/nomdevotreliste 
-Cliquez sur « Sauvegarder »
-[Étape 4] Inscrire ses premiers abonnés,
+-Cliquez sur « Admin »
+-Cliquez sur « Personnaliser »
+-Cliquez sur « Editer Attachement de fin de message »
+-Ajoutez un texte de désabonnement ainsi que le lien pour se désabonner sous la forme : https://listes.comptoir.net/wws/signoff/nomdevotreliste 
+-Cliquez sur « Sauvegarder »
+
+**[Étape 4] Inscrire ses premiers abonnés**
 Les abonnés recevrons un message d'accueil, vous pouvez également transmettre le lien direct vers l'espace d'inscription pour que chacun s'inscrive lui-même.
 Pour inscrire vos premiers abonnés cliquez sur « Admin » puis sur « Gérer les abonnements » et inscrivez vos adresse une à une ou par lot avec les boutons correspondants.
 
-Quelques conseils lors de la création d'une liste :
+## Quelques conseils lors de la création d'une liste :
+
 Lorsque vous créez une liste de discussion, peu importe l'outil utilisé, n'oubliez pas :
-D'insérer un lien de désabonnement en fin de message
-De configurer un message d'accueil qui comprenne la nature des échanges concernés par la liste ainsi que quelques règles d'usage de base (voir exemple de message d'accueil ci-dessous)
-De choisir une configuration adaptée à vos usages : par exemple, s'il s'agit d'un groupe large dont vous n'êtes pas certain de la capacité à respecter les règles d'usage de base et à absorber un grand nombre de mail, vous pouvez choisir de modérer les messages avant leur diffusion.
-Laissez visibles les adresses mail des expéditeurs rendez accessible la liste des abonnés afin que chacun ait la possibilité de savoir à qui il s'adresse.
+-D'insérer un lien de désabonnement en fin de message
+-De configurer un message d'accueil qui comprenne la nature des échanges concernés par la liste ainsi que quelques règles d'usage de base (voir exemple de message d'accueil ci-dessous)
+-De choisir une configuration adaptée à vos usages : par exemple, s'il s'agit d'un groupe large dont vous n'êtes pas certain de la capacité à respecter les règles d'usage de base et à absorber un grand nombre de mail, vous pouvez choisir de modérer les messages avant leur diffusion.
+-Laisser visibles les adresses mail des expéditeurs: rendez accessible la liste des abonnés afin que chacun ait la possibilité de savoir à qui il s'adresse.
 
-Voici ci-dessous un exemple de message d'accueil :
-
-Bienvenue sur la liste de discussion réservée aux membres de l'assoXXX. Cette liste permet à chacun de s'adresser à l'ensemble des adhérents en envoyant simplement un mail à XXX@listes.comptoir.net .
+**Voici ci-dessous un exemple de message d'accueil :**
+_Bienvenue sur la liste de discussion réservée aux membres de l'assoXXX. Cette liste permet à chacun de s'adresser à l'ensemble des adhérents en envoyant simplement un mail à XXX@listes.comptoir.net .
 Sur cette liste vous pouvez envoyer des informations qui concernent l'ensemble des membres (événements, questions, . . .)
 
 Avant d'envoyer un mail, vérifiez qu'il concerne bien l'assoXXX. S'il intéresse l'ensemble des adhérents, envoyez le plutôt à la liste de discussion dédiée :  XXX@listes.comptoir.net .
@@ -80,11 +85,12 @@ Soyez explicite dans l'objet de vos mails (éviter les objets du type "un truc" 
 Si le sujet de discussion change : ne vous contentez pas de modifier l'objet, mais faites un nouveau mail (question de lisibilité) ! 
 Si un sujet prête à débat, prenez-les devants et créez un pad ! Pour cela, rendez-vous sur http://pad.comptoir.net/ et intégrez le lien du pad à votre mail. 
 Si un sujet prête pas à débats mais que finalement, un débat émerge quand même, créez un pad ! 
-Évitez les destinataires multiples : lorsque vous envoyez un mail sur une liste de discussion, ne mettez personne en copie, préférez des envois séparés. 
-Sources
-Cette fiche méthodologique d’appui grandement sur une présentation de Marika Bernier :
-«Coopérer à distance : la liste de discussion» - Marika Bernier  – version 2.0 du 10 septembre 2015.
+Évitez les destinataires multiples : lorsque vous envoyez un mail sur une liste de discussion, ne mettez personne en copie, préférez des envois séparés._
+
+## Sources
+Cette fiche méthodologique d’appui grandement (voir exclusivement) sur une présentation de Marika Bernier :
+-«Coopérer à distance : la liste de discussion» - Marika Bernier  – version 2.0 du 10 septembre 2015.
 Cette même présentation s’appuyait sur les sources complémentaires suivantes :
-Contenus de formation – « Les listes de discussion, de diffusion, forum » - Outils-Réseaux
-« Utiliser la messagerie pour coopérer » - formation Animacoop Brest, Animer un projet collaboratif | Brest - Printemps 2015 - Auteur : "Animacoopiens Session 14 ».
-Visioconférence [Atelier CoOL] : utiliser, animer et gérer une liste de discussion  et prise de notes collectives du 05.02.2015 – Groupe Anim-fr.
+-Contenus de formation – « Les listes de discussion, de diffusion, forum » - Outils-Réseaux
+-« Utiliser la messagerie pour coopérer » - formation Animacoop Brest, Animer un projet collaboratif | Brest - Printemps 2015 - Auteur : "Animacoopiens Session 14 ».
+-Visioconférence [Atelier CoOL] : utiliser, animer et gérer une liste de discussion  et prise de notes collectives du 05.02.2015 – Groupe Anim-fr.
