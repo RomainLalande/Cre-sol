@@ -1,4 +1,4 @@
-## Les listes de discussion
+# Les listes de discussion
 CC By SA Romain Lalande - Sur la base d'une présentation de Marika Bernier
 
 Les listes de discussion consistent en une adresse mail derrière laquelle des utilisateurs peuvent s'inscrire : lorsqu'un mail est envoyé à cette adresse (par exemple nom-de-la-liste@domaine-de-la-liste.fr), l'ensemble des personnes abonnées le reçoivent.
