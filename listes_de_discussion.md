@@ -91,6 +91,12 @@ Avant d'envoyer un mail, vérifiez qu'il concerne bien l'assoXXX. S'il intéress
 - Si un sujet prête pas à débats mais que finalement, un débat émerge quand même, créez un pad ! 
 - Évitez les destinataires multiples : lorsque vous envoyez un mail sur une liste de discussion, ne mettez personne en copie, préférez des envois séparés._
 
+## Liste des Hébergeurs libres, éthiques, solidaires, coopératifs, associatifs, indépendants, alternatifs, non marchands,.... et Francophone
+
+Ces hébergeurs proposent différents services, dont les listes de discussion/diffusion.
+
+* http://www.hebergeurslibres.net/wakka.php?wiki=listehebergeurs
+
 ## Sources
 Cette fiche méthodologique d’appui grandement (voir exclusivement) sur une présentation de Marika Bernier :
 - «Coopérer à distance : la liste de discussion» - Marika Bernier  – version 2.0 du 10 septembre 2015.
