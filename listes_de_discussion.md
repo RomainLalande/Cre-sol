@@ -70,6 +70,7 @@ Vous pouvez naviguer dans l'interface d'administration pour modifier certains pa
 
 Les abonnés recevrons un message d'accueil, vous pouvez également transmettre le lien direct vers l'espace d'inscription pour que chacun s'inscrive lui-même.
 Pour inscrire vos premiers abonnés cliquez sur « Admin » puis sur « Gérer les abonnements » et inscrivez vos adresse une à une ou par lot avec les boutons correspondants.
+![Dessin : "j'adore les disussions de comptoir... avec ou sans modération !](http://www.blog.cresol.fr/wp-content/uploads/2016/01/Discussion-comptoir.jpg)
 
 ## Quelques conseils lors de la création d'une liste :
 
