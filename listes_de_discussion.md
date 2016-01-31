@@ -5,6 +5,8 @@ Les listes de discussion consistent en une adresse mail derrière laquelle des u
 
 Attention à ne pas les confondre avec des listes de diffusion : dans une liste de diffusion, il s'agit d'une communication à sens unique (le responsable envoi un mail à un ensemble d'abonné). Les listes de diffusion sont par exemple utilisées pour des lettres d'informations, alors que les listes de discussions sont plus adaptées à des groupes de travail au sein desquels chacun la contribution de chacun est attendue.
 
+![abondance d'information image](http://www.akayogi.com/wp-content/uploads/2015/10/AKAYOGI-livre-dessins-Eric-Grelet-15.jpeg)
+
 ## Pourquoi utiliser une liste de discussion ?
 **Changer les postures.** Utiliser une liste de discussion, c'est accepter que chacun puisse s'exprimer et que chaque idée est valable pour faire avancer le sujet qui intéresse le collectif. C'est une manière d'introduire des échanges horizontaux décloisonnant en supprimant la hiérarchie dans les prises de paroles.
 
