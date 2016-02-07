@@ -1,3 +1,4 @@
+Fiche sous licence CC0 - Romain Lalande
 # Le Pad, outil d'écriture collaborative 
 
 ## Qu'est-ce qu'un Pad, pour quels usages ? 
@@ -84,8 +85,6 @@ Le pad est ouvert à toute personne disposant du lien : peu de chance de le trou
 Il faut également avouer que les fonction d'import et d'export (exception faite du format PDF) sont assez maladroites, et dans un sens comme dans l'autre il faut revenir sur la mise en page une fois le document importé/exporté. C'est notamment pour cette raison que les pads ne sont pas adaptés à de gros documents ou dossiers, très laborieux à remettre en page ensuite.
 
 ## Autres ressources : 
-  -[[http://framablog.org/public/_docs/doc-framapad-general.pdf | Le guide d'utilisation des pads]] par Simon Descarpentries, pour Framasoft.
-  -[[https://framapad.org/#TutoVideo|Un tutoriel vidéo]] par Frédéric Véron, professeur de SVT à l'académie de Créteil
-  -[[http://www.cndp.fr/crdp-besancon/index.php?id=ecriture-collaborative|Un autre tutoriel]] par Canopée de Besançon
-
-
+-[Le guide d'utilisation des pads](http://framablog.org/public/_docs/doc-framapad-general.pdf) par Simon Descarpentries, pour Framasoft.
+-[Un tutoriel vidéo](https://framapad.org/#TutoVideo) par Frédéric Véron, professeur de SVT à l'académie de Créteil
+-[Un autre tutoriel](http://www.cndp.fr/crdp-besancon/index.php?id=ecriture-collaborative) par Canopée de Besançon
