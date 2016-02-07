@@ -51,7 +51,7 @@ Un formulaire s'ouvre dans lequel vous pouvez renseigner l'ensemble des informat
 
 Une fois votre événement créé, il vous est demandé de choisir une adresse mail et un mot de passe, afin de pouvoir par la suite modifier votre événement. 
 
-![]({{site.baseurl}}/http://savoirscommuns.comptoir.net/_media/cibul3.png)
+![](http://savoirscommuns.comptoir.net/_media/cibul3.png)
 
 Attention : ce mail et ce mot de passe ne seront valables que pour l'événement en question, cela n'équivaut pas à la création d'un compte sur Open Agenda !
 
