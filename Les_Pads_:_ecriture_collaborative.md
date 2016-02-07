@@ -86,5 +86,7 @@ Il faut également avouer que les fonction d'import et d'export (exception faite
 
 ## Autres ressources : 
 -[Le guide d'utilisation des pads](http://framablog.org/public/_docs/doc-framapad-general.pdf) par Simon Descarpentries, pour Framasoft.
+
 -[Un tutoriel vidéo](https://framapad.org/#TutoVideo) par Frédéric Véron, professeur de SVT à l'académie de Créteil
+
 -[Un autre tutoriel](http://www.cndp.fr/crdp-besancon/index.php?id=ecriture-collaborative) par Canopée de Besançon
