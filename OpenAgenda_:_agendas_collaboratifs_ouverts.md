@@ -43,11 +43,11 @@ Pour créer un événement, il faut d'abord choisir l'agenda dans lequel vous so
 
 Une fois sur la page de l'agenda en question, il suffit de cliquer sur « ajouter un événement ».
 
-![]({{site.baseurl}}/http://savoirscommuns.comptoir.net/_media/cibul1.png)
+![](http://savoirscommuns.comptoir.net/_media/cibul1.png)
 
 Un formulaire s'ouvre dans lequel vous pouvez renseigner l'ensemble des informations dont vous disposez (catégorie, image, descriptif, mots-clefs, lieux, lien de réservation, prix, horaires...).
 
-![]({{site.baseurl}}/http://savoirscommuns.comptoir.net/_media/cibul2b.png)
+![](http://savoirscommuns.comptoir.net/_media/cibul2b.png)
 
 Une fois votre événement créé, il vous est demandé de choisir une adresse mail et un mot de passe, afin de pouvoir par la suite modifier votre événement. 
 
@@ -94,7 +94,5 @@ Pour intégrer l'intégralité d'un agenda à votre site, allez sur la page de l
 Pour filtrer les événements que vous souhaitez afficher, vous pouvez choisir une catégorie particulière. Seuls les événements de cette catégorie apparaîtront sur votre site.
 
 Une fois tous vos réglages effectués, copiez le code commençant par
-<<script[...] 
-> et collez le dans un module, un article ou une page de votre site.
-
-
+`<<script[...]`
+et collez le dans un module, un article ou une page de votre site.
