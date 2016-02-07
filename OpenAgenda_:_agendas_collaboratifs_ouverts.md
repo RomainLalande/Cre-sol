@@ -1,3 +1,4 @@
+Fiche sous licence CC0 - Romain Lalande et Sarah Gaucher
 # OpenAgenda : agendas collaboratifs ouverts
 
 Avec [Open Agenda](https://openagenda.com/) , créez des agendas collaboratifs et ouverts en ligne
