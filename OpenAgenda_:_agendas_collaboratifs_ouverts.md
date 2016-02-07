@@ -93,6 +93,4 @@ Pour intégrer l'intégralité d'un agenda à votre site, allez sur la page de l
 
 Pour filtrer les événements que vous souhaitez afficher, vous pouvez choisir une catégorie particulière. Seuls les événements de cette catégorie apparaîtront sur votre site.
 
-Une fois tous vos réglages effectués, copiez le code commençant par
-`<<script[...]`
-et collez le dans un module, un article ou une page de votre site.
+Une fois tous vos réglages effectués, copiez le code commençant par `<<script[...]`et collez le dans un module, un article ou une page de votre site.
