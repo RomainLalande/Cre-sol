@@ -1,6 +1,6 @@
 # OpenAgenda : agendas collaboratifs ouverts
 
-Avec [Open Agenda](https://openagenda.com/), créez des agendas collaboratifs et ouverts en ligne
+Avec [Open Agenda](https://openagenda.com/) , créez des agendas collaboratifs et ouverts en ligne
 
 Open Agenda est une plate-forme d'agendas collaboratifs en ligne qui permet à chacun de créer son propre agenda et d'y ajouter ses événements, en contribuant à la constitution d'une base de données d'événementiels ouverte.
 
