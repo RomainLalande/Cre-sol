@@ -1,5 +1,6 @@
 # Utilise LibrePay
 
+Fiche sous licence CC0 - Romain Lalande
 En cours de documentation
 
 ## Qu'est-ce que Librepay
@@ -7,4 +8,4 @@ En cours de documentation
 ## Comment utiliser LibrePay ?
 ### Financer un projet ou une personne
 
-### Créer un compte pour se faire rétribuer 
+### CrÃ©er un compte pour se faire rÃ©tribuer
