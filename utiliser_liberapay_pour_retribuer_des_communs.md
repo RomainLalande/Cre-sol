@@ -31,4 +31,4 @@ Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhai
 
 ![test](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Freceipt.png)
 
-### CrÃ©er un compte pour se faire rÃ©tribuer
+### Créer un compte pour se faire rétribuer
