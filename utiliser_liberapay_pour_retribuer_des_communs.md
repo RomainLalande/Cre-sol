@@ -1,6 +1,7 @@
 # Utiliser LiberaPay
 
 Fiche sous licence CC0 - Romain Lalande
+
 En cours de documentation
 
 ## Qu'est-ce que Liberapay
@@ -20,7 +21,7 @@ Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhai
  - Une fois cotre compte créé, vous pouvez renseigner votre profil si vous le souhaitez en vous connectant ( Log in) puis en cliquant sur votre nom (haut de l'écran) puis sur "profile". Sinon, passez directement à l'étape suivante.
  - Dans la zone "Donate", tapez le nom de l'utilisateur ou du projet auquel vous souhaitez contribuer et cliquez sur "Go"
 
-![test](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Fdonate.png)
+![](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Fdonate.png)
 
  - Cliquez ensuite sur l'individu ou le projet correspondant pour accéder à son profil, puis sur le bouton "Donate"
  - Indiquez le montant que vous souhaitez donner chaque semaine dans le champs correspondant (en euros) puis cliquez sur "donate"
@@ -29,6 +30,6 @@ Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhai
 
 ![](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Fpaiement.png)
 
-![test](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Freceipt.png)
+![](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Freceipt.png)
 
 ### Créer un compte pour se faire rétribuer
