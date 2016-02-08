@@ -1,10 +1,10 @@
-# Utiliser LiberaPay
+# Utiliser LiberaPay pour rétribuer des communs
 
 Fiche sous licence CC0 - Romain Lalande
 [Liberapay, c'est par ici](https://liberapay.com/)
 En cours de documentation
 
-## Qu'est-ce que Liberapay
+## Qu'est-ce que Liberapay ?
 LiberaPay est un service en ligne basé sur un logiciel libre qui permet de financer des projets ou des individus via des rétributions réccurentes (rythme hebdomadaire). Concrêtement, vous choisissez à quelle hauteur vous souhaitez contribuer chaque semaine et la somme correspondante est versée de manière réccurente au projet ou à la personne concernée.
 
 Lorsqu'il s'agit d'un projet, les différents individus définis comme y contribuant gèrent de manière autonome la part du montant acquis par le projet qu'il souhaite s'attribuer en fonction de ses contributions. A chaque projet de définir la manière dont se décide la répartition de cette somme. L'exprimentation et le développement de tels modes de rétribution est un véritable enjeu pour imaginer de nouveaux modèles économiques autours de communs.
