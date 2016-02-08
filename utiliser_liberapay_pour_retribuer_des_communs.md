@@ -7,13 +7,13 @@ En cours de documentation
 ## Qu'est-ce que Liberapay
 LiberaPay est un service en ligne basé sur un logiciel libre qui permet de financer des projets ou des individus via des rétributions réccurentes (rythme hebdomadaire). Concrêtement, vous choisissez à quelle hauteur vous souhaitez contribuer chaque semaine et la somme correspondante est versée de manière réccurente au projet ou à la personne concernée.
 
-Lorsqu'il s'agit d'un projet, les différents individus définis comme y contribuant gèrent de manière autonome la part du montant acquis par le projet qu'il souhaite s'attribuer en fonction de ses contributions. A chaque projet de définir la manière dont se décide la répartition de cette somme. L'exprimentation et le développement de tels modes de rétribution est un véritable enjeu de pour imaginer de nouveaux modèles économiques autours de communs.
+Lorsqu'il s'agit d'un projet, les différents individus définis comme y contribuant gèrent de manière autonome la part du montant acquis par le projet qu'il souhaite s'attribuer en fonction de ses contributions. A chaque projet de définir la manière dont se décide la répartition de cette somme. L'exprimentation et le développement de tels modes de rétribution est un véritable enjeu pour imaginer de nouveaux modèles économiques autours de communs.
 
 Il est possible pour des personnes physiques, mais aussi pour des personnes morales d'utiliser ce service dans la mesure où il propose l'édition de factures. 
 
 Le paiement en ligne sécurisé par carte bancaire est proposé via le prestataire  mangopay (3% de commission lors du versement).
 
-## Comment utiliser LibrePay ?
+## Comment utiliser LiberaPay ?
 ### Financer un projet ou une personne
 
 Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhaitez le rétribuer... sauf que le site est en anglais et que vous avez peur de mal vous y prendre ? Vous trouverez ici les explications qu'il vous faut ! 
