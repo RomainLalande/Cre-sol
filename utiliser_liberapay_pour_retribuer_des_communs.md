@@ -16,7 +16,7 @@ Le paiement en ligne sécurisé par carte bancaire est proposé via le prestatai
 ## Comment utiliser LiberaPay ?
 ### Financer un projet ou une personne
 
-Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhaitez le rétribuer... sauf que le site est en anglais et que vous avez peur de mal vous y prendre ? Vous trouverez ici les explications qu'il vous faut ! 
+Un projet ou un individu utilisant LiberaPay a du sens pour vous et vous souhaitez le rétribuer... sauf que le site est en anglais et que vous avez peur de mal vous y prendre ? Vous trouverez ici les explications qu'il vous faut ! 
 
  - Pour commencer, il faut vous créer un compte : cliquez sur "sign in" en haut à droite puis renseignez votre nom d'utilisateur, votre mail et votre mot de passe dans la colonne de droite. Cochez la case pour accepter les conditions dutilisation et cliquez sur "Go".
  - Une fois cotre compte créé, vous pouvez renseigner votre profil si vous le souhaitez en vous connectant ( Log in) puis en cliquant sur votre nom (haut de l'écran) puis sur "profile". Sinon, passez directement à l'étape suivante.
