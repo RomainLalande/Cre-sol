@@ -1,7 +1,7 @@
 # Utiliser LiberaPay
 
 Fiche sous licence CC0 - Romain Lalande
-
+[Liberapay, c'est par ici](https://liberapay.com/)
 En cours de documentation
 
 ## Qu'est-ce que Liberapay
