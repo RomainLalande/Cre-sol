@@ -24,7 +24,7 @@ Un projet ou un individus utilisant LiberaPay a du sens pour vous et vous souhai
  - Indiquez le montant que vous souhaitez donner chaque semaine dans le champs correspondant (en euros) puis cliquez sur "donate"
  - Rentrez les informations relatives à votre cartes bancaires ainsi que la somme que vous souhaitez provisionner. Vous pouvez provisionner une somme plus ou moins importante, mais plus elle sera faible, plus il vous faudra ré-approvisionner votre compte rappidement. 
  - Une page vous confirme l'approvisionnement de votre compte et vous pouvez éditer une facture en cliquant sur "View receipt"
-[](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Fpaiement.png)
-[](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Freceipt.png)
+![](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Fpaiement.png)
+![](https://cloud.comptoir.net/index.php/apps/gallery/ajax/image.php?file=romainlalande%40osons.cc%2FDossier%20pas%20toucher%20pour%20liens%2Fvrac%2Freceipt.png)
 
 ### CrÃ©er un compte pour se faire rÃ©tribuer
