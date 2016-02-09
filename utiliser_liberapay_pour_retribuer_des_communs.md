@@ -2,7 +2,7 @@
 
 Fiche sous licence CC0 - Romain Lalande
 [Liberapay, c'est par ici](https://liberapay.com/)
-En cours de documentation
+En cours de documentation | [Contribution possible sur github](https://github.com/RomainLalande/Cre-sol/blob/master/utiliser_liberapay_pour_retribuer_des_communs.md) 
 
 ## Qu'est-ce que Liberapay ?
 LiberaPay est un service en ligne basé sur un logiciel libre qui permet de financer des projets ou des individus via des rétributions réccurentes (rythme hebdomadaire). Concrêtement, vous choisissez à quelle hauteur vous souhaitez contribuer chaque semaine et la somme correspondante est versée de manière réccurente au projet ou à la personne concernée.
@@ -16,7 +16,7 @@ Le paiement en ligne sécurisé par carte bancaire est proposé via le prestatai
 ## Comment utiliser LiberaPay ?
 ### Financer un projet ou une personne
 
-Un projet ou un individu utilisant LiberaPay a du sens pour vous et vous souhaitez le rétribuer... sauf que le site est en anglais et que vous avez peur de mal vous y prendre ? Vous trouverez ici les explications qu'il vous faut ! 
+Un projet ou un individu utilisant LiberaPay a du sens pour vous et vous souhaitez le rétribuer... mais vous avez peur de mal vous y prendre ? Vous trouverez ici les explications qu'il vous faut ! 
 
  - Pour commencer, il faut vous créer un compte : cliquez sur "sign in" en haut à droite puis renseignez votre nom d'utilisateur, votre mail et votre mot de passe dans la colonne de droite. Cochez la case pour accepter les conditions dutilisation et cliquez sur "Go".
  - Une fois cotre compte créé, vous pouvez renseigner votre profil si vous le souhaitez en vous connectant ( Log in) puis en cliquant sur votre nom (haut de l'écran) puis sur "profile". Sinon, passez directement à l'étape suivante.
