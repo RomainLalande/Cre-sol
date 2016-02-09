@@ -11,7 +11,7 @@ Lorsqu'il s'agit d'un projet, les différents individus définis comme y contrib
 
 Il est possible pour des personnes physiques, mais aussi pour des personnes morales d'utiliser ce service dans la mesure où il propose l'édition de factures. 
 
-Le paiement en ligne sécurisé par carte bancaire est proposé via le prestataire  mangopay (3% de commission lors du versement).
+Le paiement en ligne sécurisé par carte bancaire est proposé via le prestataire  mangopay (1,8% de commission lors du versement + 0,18€ forfaitaires). De nouvelles solutions de paiement moins onéreuses seront bientôt proposées.
 
 ## Comment utiliser LiberaPay ?
 ### Financer un projet ou une personne
