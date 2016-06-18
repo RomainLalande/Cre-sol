@@ -1,4 +1,11 @@
+---
+title: La pratique des pads, ou l'écriture collaborative
+description: Un pad est un document collaboratif en ligne où chacun peut écrire simultanément: astuces pour s'en servir
+image_url:
+---
+
 Fiche sous licence CC0 - Romain Lalande
+
 # Le Pad, outil d'écriture collaborative 
 
 ## Qu'est-ce qu'un Pad, pour quels usages ? 
@@ -11,7 +18,6 @@ C'est un document collaboratif en ligne où chacun peut écrire simultanément:
 
 ## Pour quels usages ? 
 
-
 On peut se servir du pad à différentes occasions :
 - **En réunion présentielle :** la prise de notes à plusieurs permet de ne pas mobiliser l'attention d'une personne sur le compte rendu et de mettre chacun à contribution (évite de déformer les interventions, de bloquer la participation de celui qui prend les notes, de passer trop de temps à rédiger puis valider un compte-rendu);
 
@@ -22,6 +28,7 @@ On peut se servir du pad à différentes occasions :
 - **Suivre une réunion à distance :** lorsque l'on ne peut pas se rendre à une réunion ou quand on est en réunion téléphonique, le pad est extrèmement pratique pour avoir un objet commmun palpable qui fasse le lien. En grand nombre au téléphone, on peut notamment signaler son accord en direct (on met "+1") ou signaler sa volonté de prise de parole dans le chat. On peut également imaginer qu'une personne seule dans son bureau suive "de loin" une réunion en groupe afin de cerner grossièrement la teneur des échanges et intervenir ponctuellement par écrit. A distance, le pad nécessite d'être pris en compte dans le processus d'animation. 
 
 ## Les fonctionnalités 
+
 Le pad propose de nombreuses fonctionnalités disponible dans la barre de menu en haut de la page, bien que basiques :
 - **Les fonctionnalités de base d'un traitement de texte :** 
  - Gras, italique, souligné, barré
@@ -85,6 +92,7 @@ Le pad est ouvert à toute personne disposant du lien : peu de chance de le trou
 Il faut également avouer que les fonction d'import et d'export (exception faite du format PDF) sont assez maladroites, et dans un sens comme dans l'autre il faut revenir sur la mise en page une fois le document importé/exporté. C'est notamment pour cette raison que les pads ne sont pas adaptés à de gros documents ou dossiers, très laborieux à remettre en page ensuite.
 
 ## Autres ressources : 
+
 -[Le guide d'utilisation des pads](http://framablog.org/public/_docs/doc-framapad-general.pdf) par Simon Descarpentries, pour Framasoft.
 
 -[Un tutoriel vidéo](https://framapad.org/#TutoVideo) par Frédéric Véron, professeur de SVT à l'académie de Créteil
