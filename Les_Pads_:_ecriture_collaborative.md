@@ -9,7 +9,7 @@ C'est un document collaboratif en ligne où chacun peut écrire simultanément:
 - On peut exporter le document pour en faire des sauvegardes
 - Il est accessible à tout utilisateur disposant du lien
 
-## Pour quels usages ? 
+## Quels usages pour quels bénéfices recherchés ? 
 
 
 On peut se servir du pad à différentes occasions :
