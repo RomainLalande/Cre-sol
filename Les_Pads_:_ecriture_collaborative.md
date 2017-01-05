@@ -1,4 +1,5 @@
-Fiche sous licence CC0 - Romain Lalande
+Fiche sous licence CC0 
+Contributeurs - Romain Lalande, Florence Le Nulzec
 # Le Pad, outil d'écriture collaborative 
 
 ## Qu'est-ce qu'un Pad, pour quels usages ? 
