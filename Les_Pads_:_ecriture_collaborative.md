@@ -65,7 +65,7 @@ Comme tout outil collaboratif, le pad nécessite des règles partagées d'usage 
 
 Les pads reposent sur un logiciel libre développé par Framasoft. On peut donc directement créer un pad sur leur site (framapad.org), mais il est conseillé si on en a les moyens de l'installer sur son propre serveur. A Tours, Cyrille C. en héberge, il est donc préférable d'utiliser ceux-là plutôt que ceux de framasoft afin de ne pas saturer leurs serveurs.
 
-** Pour créer un pad, c'est donc par ici: http://pad.comptoir.net/ !** 
+** Pour créer un pad, c'est donc par ici: http://framapad.org/ !** 
 
 Une fois sur la page de création des pads, vous pouvez soit cliquer sur "New Pad", qui générera un nom automatique, ou bien choisir vous même le nom de votre pad (c'est préférable pour s'y retrouver !).
 
